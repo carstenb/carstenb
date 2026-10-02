@@ -5,7 +5,7 @@
   <img src="assets/header-light.svg" alt="Carsten Bokemeyer: I build platforms as products, and the organizations that run them." width="560">
 </picture>
 
-[Product strategy × Platform engineering × Organisational design](https://carstenb.github.io/#work)
+[Product strategy × Platform engineering × Organisational design](https://carsten-bokemeyer.de/#work)
 
 **Principal Product Manager, Platform at Cint**
 
@@ -37,10 +37,10 @@ I also build small tools and AI-assisted experiments to understand new technolog
 
 <br>
 
-Product work across **Cint, SmartRecruiters, Greator, Chefkoch and Studitemps** → [CV](https://carstenb.github.io/cv/)
+Product work across **Cint, SmartRecruiters, Greator, Chefkoch and Studitemps** → [CV](https://carsten-bokemeyer.de/cv/)
 
-[Website](https://carstenb.github.io/) · [CV](https://carstenb.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/carstenbokemeyer/) · [Email](mailto:mail@carsten-bokemeyer.de)
+[Website](https://carsten-bokemeyer.de/) · [CV](https://carsten-bokemeyer.de/cv/) · [LinkedIn](https://www.linkedin.com/in/carstenbokemeyer/) · [Email](mailto:mail@carsten-bokemeyer.de)
 
 <br>
 
-<sub>This profile is generated from [carstenb.github.io](https://carstenb.github.io/).</sub>
+<sub>This profile is generated from [carsten-bokemeyer.de](https://carsten-bokemeyer.de/).</sub>
