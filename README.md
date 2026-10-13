@@ -33,6 +33,12 @@ Problem → care bureaucracy turns people into the integration layer<br>
 Approach → AI-assisted solo product development<br>
 Why → learn by building
 
+**folgen**: Series, one episode at a time.
+
+Problem → keeping track of shows across streaming services<br>
+Approach → open source, AI-assisted, built in the open<br>
+Why → a calm tracker I want to use myself
+
 I also build small tools and AI-assisted experiments to understand new technologies by using them.
 
 <br>
